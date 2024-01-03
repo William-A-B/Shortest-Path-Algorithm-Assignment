@@ -1,0 +1,6 @@
+Leeds	Doncaster	47
+Leeds	York	-39
+Sheffield	Doncaster	29
+York	Doncaster	55
+Leeds	Sheffield	53
+

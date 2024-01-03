@@ -1,0 +1,282 @@
+# depslib dependency file v1.0
+1676964476 source:c:\users\william\documents\electronic engineering (meng)\year_2\algorithms\algorithms_assignment\algorithms_assignment_codeblocks\algorithms_assignment\src\graph.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	"graph.h"
+	"fileio.h"
+
+1676964044 c:\users\william\documents\electronic engineering (meng)\year_2\algorithms\algorithms_assignment\algorithms_assignment_codeblocks\algorithms_assignment\src\graph.h
+
+1677797248 c:\users\william\documents\electronic engineering (meng)\year_2\algorithms\algorithms_assignment\algorithms_assignment_codeblocks\algorithms_assignment\src\fileio.h
+
+1677778661 source:c:\users\william\documents\electronic engineering (meng)\year_2\algorithms\algorithms_assignment\algorithms_assignment_codeblocks\algorithms_assignment\src\main.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	"graph.h"
+	"fileio.h"
+
+1677796184 source:c:\users\william\documents\electronic engineering (meng)\year_2\algorithms\algorithms_assignment\algorithms_assignment_codeblocks\algorithms_assignment\src\fileio.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	"graph.h"
+	"fileio.h"
+
+1677971148 source:c:\users\william\documents\electronic engineering (meng)\year_2\algorithms\algorithms_assignment\algorithms_assignment_codeblocks\algorithms_assignment - copy - at second rewrite\src\fileio.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	"graph.h"
+	"fileio.h"
+
+1676964044 c:\users\william\documents\electronic engineering (meng)\year_2\algorithms\algorithms_assignment\algorithms_assignment_codeblocks\algorithms_assignment - copy - at second rewrite\src\graph.h
+
+1677968296 c:\users\william\documents\electronic engineering (meng)\year_2\algorithms\algorithms_assignment\algorithms_assignment_codeblocks\algorithms_assignment - copy - at second rewrite\src\fileio.h
+
+1676964476 source:c:\users\william\documents\electronic engineering (meng)\year_2\algorithms\algorithms_assignment\algorithms_assignment_codeblocks\algorithms_assignment - copy - at second rewrite\src\graph.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	"graph.h"
+	"fileio.h"
+
+1677778661 source:c:\users\william\documents\electronic engineering (meng)\year_2\algorithms\algorithms_assignment\algorithms_assignment_codeblocks\algorithms_assignment - copy - at second rewrite\src\main.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	"graph.h"
+	"fileio.h"
+
+1680994871 source:c:\users\william\documents\electronic engineering (meng)\year_2\algorithms\algorithms_assignment\algorithms_assignment_codeblocks\algorithms_assignment_main\src\graph.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	"graph.h"
+	"fileio.h"
+	"lookup.h"
+
+1681308138 c:\users\william\documents\electronic engineering (meng)\year_2\algorithms\algorithms_assignment\algorithms_assignment_codeblocks\algorithms_assignment_main\src\graph.h
+	"fileio.h"
+
+1680959145 c:\users\william\documents\electronic engineering (meng)\year_2\algorithms\algorithms_assignment\algorithms_assignment_codeblocks\algorithms_assignment_main\src\fileio.h
+
+1681319211 source:c:\users\william\documents\electronic engineering (meng)\year_2\algorithms\algorithms_assignment\algorithms_assignment_codeblocks\algorithms_assignment_main\src\main.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	"graph.h"
+	"fileio.h"
+	"lookup.h"
+	"listGraph.h"
+
+1681319257 source:c:\users\william\documents\electronic engineering (meng)\year_2\algorithms\algorithms_assignment\algorithms_assignment_codeblocks\algorithms_assignment_main\src\fileio.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	"graph.h"
+	"fileio.h"
+	"lookup.h"
+	"listGraph.h"
+
+1680041812 c:\users\william\documents\electronic engineering (meng)\year_2\algorithms\algorithms_assignment\algorithms_assignment_codeblocks\algorithms_assignment_main\src\lookup.h
+
+1680898252 source:c:\users\william\documents\electronic engineering (meng)\year_2\algorithms\algorithms_assignment\algorithms_assignment_codeblocks\algorithms_assignment_main\src\lookup.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	"graph.h"
+	"fileio.h"
+	"lookup.h"
+
+1681318297 source:c:\users\william\documents\electronic engineering (meng)\year_2\algorithms\algorithms_assignment\algorithms_assignment_codeblocks\algorithms_assignment_main\src\listgraph.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	"graph.h"
+	"fileio.h"
+	"lookup.h"
+	"listGraph.h"
+
+1681317396 c:\users\william\documents\electronic engineering (meng)\year_2\algorithms\algorithms_assignment\algorithms_assignment_codeblocks\algorithms_assignment_main\src\listgraph.h
+	"fileio.h"
+
+1681569967 source:c:\users\william\documents\electronic engineering (meng)\year_2\algorithms\algorithms_assignment\algorithms_assignment_codeblocks\algorithms_assignment_main - copy_12_04_2023_1831\src\fileio.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	"graph.h"
+	"fileio.h"
+	"lookup.h"
+	"listGraph.h"
+
+1681308138 c:\users\william\documents\electronic engineering (meng)\year_2\algorithms\algorithms_assignment\algorithms_assignment_codeblocks\algorithms_assignment_main - copy_12_04_2023_1831\src\graph.h
+	"fileio.h"
+
+1680959145 c:\users\william\documents\electronic engineering (meng)\year_2\algorithms\algorithms_assignment\algorithms_assignment_codeblocks\algorithms_assignment_main - copy_12_04_2023_1831\src\fileio.h
+
+1680041812 c:\users\william\documents\electronic engineering (meng)\year_2\algorithms\algorithms_assignment\algorithms_assignment_codeblocks\algorithms_assignment_main - copy_12_04_2023_1831\src\lookup.h
+
+1681317396 c:\users\william\documents\electronic engineering (meng)\year_2\algorithms\algorithms_assignment\algorithms_assignment_codeblocks\algorithms_assignment_main - copy_12_04_2023_1831\src\listgraph.h
+	"fileio.h"
+
+1680994871 source:c:\users\william\documents\electronic engineering (meng)\year_2\algorithms\algorithms_assignment\algorithms_assignment_codeblocks\algorithms_assignment_main - copy_12_04_2023_1831\src\graph.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	"graph.h"
+	"fileio.h"
+	"lookup.h"
+
+1681318297 source:c:\users\william\documents\electronic engineering (meng)\year_2\algorithms\algorithms_assignment\algorithms_assignment_codeblocks\algorithms_assignment_main - copy_12_04_2023_1831\src\listgraph.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	"graph.h"
+	"fileio.h"
+	"lookup.h"
+	"listGraph.h"
+
+1680898252 source:c:\users\william\documents\electronic engineering (meng)\year_2\algorithms\algorithms_assignment\algorithms_assignment_codeblocks\algorithms_assignment_main - copy_12_04_2023_1831\src\lookup.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	"graph.h"
+	"fileio.h"
+	"lookup.h"
+
+1681570024 source:c:\users\william\documents\electronic engineering (meng)\year_2\algorithms\algorithms_assignment\algorithms_assignment_codeblocks\algorithms_assignment_main - copy_12_04_2023_1831\src\main.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	"graph.h"
+	"fileio.h"
+	"lookup.h"
+	"listGraph.h"
+
+1682110474 source:c:\users\william\documents\electronic engineering (meng)\year_2\algorithms\algorithms_assignment\algorithms_assignment_codeblocks\algorithms_assignment_main_copy_12_04_2023_1831\src\fileio.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	"graph.h"
+	"fileio.h"
+	"lookup.h"
+	"listGraph.h"
+
+1681768940 c:\users\william\documents\electronic engineering (meng)\year_2\algorithms\algorithms_assignment\algorithms_assignment_codeblocks\algorithms_assignment_main_copy_12_04_2023_1831\src\graph.h
+	"fileio.h"
+
+1681763636 c:\users\william\documents\electronic engineering (meng)\year_2\algorithms\algorithms_assignment\algorithms_assignment_codeblocks\algorithms_assignment_main_copy_12_04_2023_1831\src\fileio.h
+
+1680041812 c:\users\william\documents\electronic engineering (meng)\year_2\algorithms\algorithms_assignment\algorithms_assignment_codeblocks\algorithms_assignment_main_copy_12_04_2023_1831\src\lookup.h
+
+1682113413 c:\users\william\documents\electronic engineering (meng)\year_2\algorithms\algorithms_assignment\algorithms_assignment_codeblocks\algorithms_assignment_main_copy_12_04_2023_1831\src\listgraph.h
+	"fileio.h"
+
+1681766664 source:c:\users\william\documents\electronic engineering (meng)\year_2\algorithms\algorithms_assignment\algorithms_assignment_codeblocks\algorithms_assignment_main_copy_12_04_2023_1831\src\graph.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	"graph.h"
+	"fileio.h"
+	"lookup.h"
+
+1682115908 source:c:\users\william\documents\electronic engineering (meng)\year_2\algorithms\algorithms_assignment\algorithms_assignment_codeblocks\algorithms_assignment_main_copy_12_04_2023_1831\src\listgraph.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	"graph.h"
+	"fileio.h"
+	"lookup.h"
+	"listGraph.h"
+
+1680898252 source:c:\users\william\documents\electronic engineering (meng)\year_2\algorithms\algorithms_assignment\algorithms_assignment_codeblocks\algorithms_assignment_main_copy_12_04_2023_1831\src\lookup.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	"graph.h"
+	"fileio.h"
+	"lookup.h"
+
+1682118440 source:c:\users\william\documents\electronic engineering (meng)\year_2\algorithms\algorithms_assignment\algorithms_assignment_codeblocks\algorithms_assignment_main_copy_12_04_2023_1831\src\main.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	"graph.h"
+	"fileio.h"
+	"lookup.h"
+	"listGraph.h"
+	<time.h>
+
+1682159866 source:c:\users\william\documents\electronic engineering (meng)\year_2\algorithms\algorithms_assignment\algorithms_assignment_codeblocks\algorithms_assignment_main_main_main\src\fileio.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	"graph.h"
+	"fileio.h"
+	"lookup.h"
+	"listGraph.h"
+
+1682159534 c:\users\william\documents\electronic engineering (meng)\year_2\algorithms\algorithms_assignment\algorithms_assignment_codeblocks\algorithms_assignment_main_main_main\src\graph.h
+	"fileio.h"
+
+1682159864 c:\users\william\documents\electronic engineering (meng)\year_2\algorithms\algorithms_assignment\algorithms_assignment_codeblocks\algorithms_assignment_main_main_main\src\fileio.h
+
+1680041812 c:\users\william\documents\electronic engineering (meng)\year_2\algorithms\algorithms_assignment\algorithms_assignment_codeblocks\algorithms_assignment_main_main_main\src\lookup.h
+
+1682113413 c:\users\william\documents\electronic engineering (meng)\year_2\algorithms\algorithms_assignment\algorithms_assignment_codeblocks\algorithms_assignment_main_main_main\src\listgraph.h
+	"fileio.h"
+
+1682159445 source:c:\users\william\documents\electronic engineering (meng)\year_2\algorithms\algorithms_assignment\algorithms_assignment_codeblocks\algorithms_assignment_main_main_main\src\graph.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	"graph.h"
+	"fileio.h"
+	"lookup.h"
+
+1682158178 source:c:\users\william\documents\electronic engineering (meng)\year_2\algorithms\algorithms_assignment\algorithms_assignment_codeblocks\algorithms_assignment_main_main_main\src\listgraph.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	"graph.h"
+	"fileio.h"
+	"lookup.h"
+	"listGraph.h"
+
+1682160234 source:c:\users\william\documents\electronic engineering (meng)\year_2\algorithms\algorithms_assignment\algorithms_assignment_codeblocks\algorithms_assignment_main_main_main\src\main.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	"graph.h"
+	"fileio.h"
+	"lookup.h"
+	"listGraph.h"
+	<time.h>
+
